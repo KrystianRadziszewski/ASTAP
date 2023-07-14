@@ -6,7 +6,7 @@ const Footer = () => {
 	return (
 		<footer className=" p-4 text-center text-slate-400">
 			<hr className="text-slate-600" />
-			<p className=" text-slate-400">&copy; {currentYear} ASTAP Artur Skutnik. Wszelkie prawa zastrzeżone. | Made Krystian Radziszewski</p>
+			<p className=" text-slate-400">&copy; {currentYear} ASTAP Artur Skutnik. Wszelkie prawa zastrzeżone. | Made by Krystian Radziszewski</p>
 		</footer>
 	);
 };
